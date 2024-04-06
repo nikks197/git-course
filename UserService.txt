@@ -1,2 +1,2 @@
 Get the user data..
-from external file
+process the data
